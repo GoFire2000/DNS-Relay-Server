@@ -1,0 +1,5 @@
+﻿  DNS_final.c
+c:\users\许子康\desktop\课程设计\计算机网络\dns-final\dns-final\dns_final.c(250): warning C4013: “time”未定义；假设外部返回 int
+c:\users\许子康\desktop\课程设计\计算机网络\dns-final\dns-final\dns_final.c(652): warning C4133: “函数”: 从“char *”到“int *”的类型不兼容
+c:\users\许子康\desktop\课程设计\计算机网络\dns-final\dns-final\dns_final.c(695): warning C4133: “函数”: 从“char *”到“int *”的类型不兼容
+  DNS-final.vcxproj -> C:\Users\许子康\Desktop\课程设计\计算机网络\DNS-final\Debug\DNS-final.exe
